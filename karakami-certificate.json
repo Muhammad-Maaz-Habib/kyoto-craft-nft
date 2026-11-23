@@ -1,0 +1,14 @@
+
+{
+  "name": "Karakami — Demonstration Craft Certificate #0003",
+  "image": "https://raw.githubusercontent.com/Muhammad-Maaz-Habib/kyoto-craft-nft/main/karakami_image.jpeg",
+  "description": "Demonstration digital craft certificate for traditional Kyoto Karakami decorative paper associated with Maruni. Not an official certification or independent verification of authenticity.",
+  "external_url": "https://craft.kazuklin.com/maruni/",
+  "attributes": [
+    {"trait_type": "Product", "value": "Karakami"},
+    {"trait_type": "Workshop", "value": "Maruni"},
+    {"trait_type": "Origin", "value": "Kyoto, Japan"},
+    {"trait_type": "Certificate Status", "value": "DEMO ONLY - NOT OFFICIALLY CERTIFIED"},
+    {"trait_type": "Network", "value": "Base Sepolia Testnet"}
+  ]
+}
