@@ -1,0 +1,14 @@
+
+{
+  "name": "Hanafuda — Demonstration Craft Certificate #0002",
+  "image": "https://raw.githubusercontent.com/Muhammad-Maaz-Habib/kyoto-craft-nft/main/hanufada_image.jpeg",
+  "description": "Demonstration digital craft certificate for Hanafuda associated with Tamura Shogundo, Kyoto. Not an official certification or independent verification of authenticity.",
+  "external_url": "https://craft.kazuklin.com/tamura/",
+  "attributes": [
+    {"trait_type": "Product", "value": "Hanafuda"},
+    {"trait_type": "Workshop", "value": "Tamura Shogundo"},
+    {"trait_type": "Origin", "value": "Kyoto, Japan"},
+    {"trait_type": "Certificate Status", "value": "DEMO ONLY - NOT OFFICIALLY CERTIFIED"},
+    {"trait_type": "Network", "value": "Base Sepolia Testnet"}
+  ]
+}
