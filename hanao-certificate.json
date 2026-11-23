@@ -1,0 +1,15 @@
+{
+  "name": "HANAO SHOES — Demonstration Craft Certificate #0001",
+  "description": "A demonstration-only digital craft provenance record for HANAO SHOES presented for the Kyoto AI Innovation Lab. Whole Love Kyoto is the retail partner, and the hanao fabric was dyed by Iwai Senko using kata-yuzen techniques. This token is NOT an official certification, an independently verified authenticity certificate, or proof of legal ownership of the physical item.",
+  "external_url": "https://craft.kazuklin.com/wlk/",
+  "attributes": [
+    {"trait_type": "Product", "value": "HANAO SHOES"},
+    {"trait_type": "Product Reference", "value": "WLK-HANAO-0001 (demo)"},
+    {"trait_type": "Retail Partner", "value": "Whole Love Kyoto"},
+    {"trait_type": "Fabric Dyeing Workshop", "value": "Iwai Senko"},
+    {"trait_type": "Fabric Dyeing Technique", "value": "Kata-yuzen"},
+    {"trait_type": "Craft Region", "value": "Kyoto, Japan"},
+    {"trait_type": "Certificate Status", "value": "DEMO ONLY — NOT OFFICIALLY CERTIFIED"},
+    {"trait_type": "Blockchain Network", "value": "Base Sepolia Testnet"}
+  ]
+}
